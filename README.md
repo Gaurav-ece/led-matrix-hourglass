@@ -2,7 +2,7 @@
 
 An animated digital hourglass implemented on a 12×8 custom LED matrix using multiplexed display driving.
 
-![Circuit Diagram](images/xyz.jpeg)
+![Circuit Diagram](images/image1.jpeg)
 
 ![Finished Board](hardware/pcb1.jpeg)
 
@@ -21,7 +21,9 @@ An animated digital hourglass implemented on a 12×8 custom LED matrix using mul
 - NPN transistor row drivers
 - 64 LEDs
 - Tilt switch sensor
-- Potentiometer and push button
+- Potentiometer 
+- Push Button
+- Buzzer
 - TP4056 Charging Module
 - MT3608 DC-DC Boost Module
 - 18650 Battery
