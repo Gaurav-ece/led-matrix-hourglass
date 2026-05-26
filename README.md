@@ -6,7 +6,7 @@ An animated digital hourglass implemented on a 12×8 custom LED matrix using mul
 
 ![Finished Board](hardware/pcb1.jpeg)
 
-![Final Product](images/image3.jpeg.jpeg)
+![Final Product](images/image3.jpeg)
 
 ## Features
 - Multiplexed LED matrix display using shift registers
